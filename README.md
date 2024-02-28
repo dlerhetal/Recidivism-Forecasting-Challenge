@@ -24,5 +24,4 @@ The project demonstrates the potential of deep learning in enhancing recidivism 
 For more information on the challenge that inspired this project, please visit the [NIJ's Recidivism Forecasting Challenge page](https://nij.ojp.gov/funding/recidivism-forecasting-challenge).
 
 ---
-
-This README serves as a concise presentation of the project's objectives, methodology, results, and implications, designed to be both informative and engaging for potential contributors and stakeholders.
+In creating this model we extensively used class materials, google-copilot and chat gpt. We also cross referenced results with submissions to the NIJ challenge which can be found here:https://nij.ojp.gov/funding/recidivism-forecasting-challenge-results
