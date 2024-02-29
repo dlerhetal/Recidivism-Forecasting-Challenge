@@ -15,7 +15,7 @@ A deep neural network with two hidden layers is employed, optimized with the Ada
 
 ## Results
 
-The model achieved an accuracy of approximately 92.785% on the test set, with detailed performance metrics including precision, recall, and F1 score provided in the confusion matrix analysis.
+The model achieved an accuracy of approximately 77.06% on the test set, with detailed performance metrics including precision, recall, and F1 score provided in the confusion matrix analysis.
 
 ## Conclusion
 
